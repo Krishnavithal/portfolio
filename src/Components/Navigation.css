@@ -1,0 +1,11 @@
+.navbar{
+    margin-top:100vh;
+}
+.navigation-links{
+    font-weight: 400;
+    padding-left:2rem !important;
+    transition: color 0.5s;
+}
+.navigation-links:hover,.navigation-link-active{
+    color:#e31b6d !important;
+}

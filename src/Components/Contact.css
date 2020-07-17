@@ -1,0 +1,27 @@
+.input{
+    width:100%;
+    margin-bottom: 5px;
+    background:#1e242c;
+    padding:10px;
+    border:none;
+    color:white;
+}
+.input:focus{
+    outline:none;
+}
+.submit{
+    padding:10px 40px 10px 40px;
+    background:#1e242c;
+    color:white;
+    border:none;
+    transition:all 0.5s;
+}
+.submit:hover{
+    background: #04c2c9;
+}
+@media screen and (min-width: 600px) {
+    .form{
+        width:500px;
+        margin:0 auto;
+    }
+}

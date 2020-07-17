@@ -1,0 +1,26 @@
+.footer{
+    padding:60px;
+    background:#1b242f;
+    text-align:center;
+    color: white;
+}
+.wrapperfooter{
+    margin-top: 50px;
+}
+a,a:hover{
+    text-decoration: none !important;
+    color: white !important;
+}
+.social{
+    transition: all 0.5s;
+    width:60px;
+    height:60px;
+    padding:20px;
+    background:#262f38;
+    display:inline-block;
+    margin-right:20px;
+    margin-top:20px;
+}
+.social:hover{
+    background:#04c2c9 !important;
+}

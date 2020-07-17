@@ -1,0 +1,28 @@
+.canvas{
+    background: url(http://findmatthew.com/style/../img/filler.png) center center/cover;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.wrapper{
+    color:white;
+    font-weight:100 !important;
+    text-align:center;
+    margin-top:18%;
+    line-height: 1rem;
+}
+.wrapper>h1{
+    font-weight:100 !important;
+}
+.viewwork{
+    border:2px solid white;
+    padding:10px 20px 10px 20px;
+    font-size: 1.3rem;
+    transition: all 0.5s;
+}
+.viewwork:hover{
+    background:#04c2c9;
+    border:none;
+}
